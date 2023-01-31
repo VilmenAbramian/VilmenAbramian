@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VilmenAbramian
 - 👀 I’m interested in Python, machine learning 
-- 🌱 I’m currently learning how to write a good Python code and ML algorithms
+- 🌱 I’m currently learning how to write a good Python code
 - 💞️ I’m looking to collaborate with people from different contries
 - 📫 How to reach me: abramian.vl@phystech.edu
 
