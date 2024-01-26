@@ -16,7 +16,6 @@
 
 ### My statistics:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VilmenAbramian)](https://git.io/streak-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VilmenAbramian&theme=solarized_dark)
 
 ### Contact me:
